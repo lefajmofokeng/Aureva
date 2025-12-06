@@ -30,7 +30,7 @@
         }
 
         .headline-text {
-            font-size: 52px;
+            font-size: 34px;
             font-weight: 500;
             line-height: 1.2;
             color: #000;
@@ -45,7 +45,7 @@
 
         .product-card-mini {
             background-color: #fff;
-            border-radius: 12px;
+            border-radius: 4px;
             padding: 20px;
             display: flex;
             gap: 16px;
@@ -82,7 +82,7 @@
             width: 100px;
             height: 100px;
             background-color: #f8f6f3;
-            border-radius: 8px;
+            border-radius: 4px;
             flex-shrink: 0;
             overflow: hidden;
             transition: opacity 0.4s ease-in-out;
