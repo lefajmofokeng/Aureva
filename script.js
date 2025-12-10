@@ -1,19 +1,19 @@
 // Carousel data with different products and images
         const carouselData = [
             {
-                image: 'https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=1600&q=80',
+                image: 'https://images.pexels.com/photos/11179666/pexels-photo-11179666.jpeg',
                 productImage: 'https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400&q=80',
                 productTitle: 'Auréva Silk Veil Body Lotion',
                 productPrice: '$24.00'
             },
             {
-                image: 'https://images.unsplash.com/photo-1556228720-195a672e8a03?w=1600&q=80',
+                image: 'https://images.pexels.com/photos/5912195/pexels-photo-5912195.jpeg',
                 productImage: 'https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=400&q=80',
                 productTitle: 'Auréva Radiance Face Serum',
                 productPrice: '$38.00'
             },
             {
-                image: 'https://images.unsplash.com/photo-1570554886111-e80fcca6a029?w=1600&q=80',
+                image: 'https://images.pexels.com/photos/6954625/pexels-photo-6954625.jpeg',
                 productImage: 'https://images.unsplash.com/photo-1612817288484-6f916006741a?w=400&q=80',
                 productTitle: 'Auréva Gentle Cleansing Oil',
                 productPrice: '$32.00'
