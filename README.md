@@ -350,7 +350,7 @@ console.log('Auréva initialized:', {
 
 ## License
 
-MIT License
+MIT License - Free for personal and commercial use with attribution. 
 
 ## Author
 
@@ -363,4 +363,4 @@ MIT License
 3. Commit changes
 4. Push to branch
 5. Open Pull Request
- 
+   
