@@ -4,7 +4,7 @@ A sophisticated hero section component for luxury skincare brands featuring a sp
 
 ## Live Preview
 
-[View Demo](https://thisislefa.github.io/Aureva/) | [GitHub Repo](https://github.com/thisislefa/Aureva)
+[View Demo](https://lefajmofokeng.github.io/Aureva/)
 
 ## Overview
 
