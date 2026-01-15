@@ -1,14 +1,14 @@
 // Carousel data with different products and images
         const carouselData = [
             {
-                image: 'https://images.pexels.com/photos/11179666/pexels-photo-11179666.jpeg',
-                productImage: 'https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400&q=80',
+                image: 'https://images.pexels.com/photos/10221858/pexels-photo-10221858.jpeg',
+                productImage: 'https://images.pexels.com/photos/7796464/pexels-photo-7796464.jpeg',
                 productTitle: 'Auréva Silk Veil Body Lotion',
                 productPrice: '$24.00'
             },
             {
-                image: 'https://images.pexels.com/photos/5912195/pexels-photo-5912195.jpeg',
-                productImage: 'https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=400&q=80',
+                image: 'https://images.pexels.com/photos/10157940/pexels-photo-10157940.jpeg',
+                productImage: 'https://images.pexels.com/photos/13434508/pexels-photo-13434508.jpeg',
                 productTitle: 'Auréva Radiance Face Serum',
                 productPrice: '$38.00'
             },
